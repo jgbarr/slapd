@@ -1,0 +1,11 @@
+{
+  "pagerdutyApiToken": "your-pagerduty-token",
+  "slackApiToken": "xoxb-your-slack-token",
+  "slackGroupId": "your-group-id",
+  "slackChannelId": "your-channel-id",
+  "skipSchedules": [
+    "XXXX1",
+    "XXXX2",
+    "XXXX3"
+  ]
+} 

@@ -1,26 +1,8 @@
 # Config files with sensitive data
 config.json
 
-# Node modules
+# Dependencies
 node_modules/
 
-# TypeScript build output
-dist/
-src/**/*.js
-src/**/*.js.map
-
-# Environment variables
-.env
-
 # Logs
-*.log
-
-# IDE specific files
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS specific files
-.DS_Store
-Thumbs.db 
+*.log 
